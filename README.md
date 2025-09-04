@@ -106,3 +106,5 @@ crm-lamp/
 
 ## License
 MIT
+
+- TODO: Add pagination & search to contacts list
