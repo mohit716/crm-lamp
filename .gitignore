@@ -1,0 +1,16 @@
+﻿# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PHP/LAMP
+vendor/
+composer.lock
+.env
+.env.local
+*.log
+
+# Cache/temp
+cache/
+tmp/
